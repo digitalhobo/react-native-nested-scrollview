@@ -68,7 +68,7 @@ public class ReactNestedScrollViewHelper {
                 scrollEventType,
                 scrollView.getScrollX(),
                 scrollView.getScrollY(),
-							   1,1
+							   1,1,
                 contentView.getWidth(),
                 contentView.getHeight(),
                 scrollView.getWidth(),
